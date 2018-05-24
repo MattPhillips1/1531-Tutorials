@@ -1,0 +1,4 @@
+[
+  "test_bmi.py::test_calculate_bmi",
+  "test_bmi.py::test_exception"
+]
